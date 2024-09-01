@@ -9,3 +9,5 @@ The division by restoring algorithm is a fundamental technique for integer divis
 # Algorithm
 
 The code consists of multiple modules. The primary module is structured into two essential components: the Datapath and the Controlpath. The Datapath defines the hardware requirements for implementation, while the Controlpath delineates the data flow and control signals within the hardware.
+
+![image](https://github.com/user-attachments/assets/fdeef260-94cd-4a7a-aafb-e3fc1f6cb720)
